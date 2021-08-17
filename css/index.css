@@ -1,0 +1,14 @@
+h1{
+    font-size: large;
+}
+td{
+    padding-right: 20px;
+}
+img{
+    border-style:groove;
+}
+hr{
+    border-style:dotted;
+    border-bottom: none;
+    border-width: 2px;
+}
